@@ -1,2 +1,7 @@
 hii
+<<<<<<< HEAD
 gm
+=======
+hlo
+>>>>>>> feature1
+how r u
